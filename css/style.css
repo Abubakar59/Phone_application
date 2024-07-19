@@ -1,0 +1,312 @@
+
+
+body{
+    padding: 0 0 0 0;
+    margin: 0;
+    box-sizing: border-box;} 
+
+
+    
+.nav-container{
+    display: flex;
+    flex: 1;
+    justify-content: space-between;
+    margin-left: -124;
+}.maid{
+   
+    color: #ff6900;
+}
+.redmi-logo{width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 20px;
+    margin-top: -10px;
+
+}
+
+
+
+
+.logo{
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: #ff6900;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.nav-items{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+   
+}
+.holder{ text-align: center;
+    margin: top 10px; ;
+    margin-bottom: 10px;
+    background-color: rgba(254, 255, 253, 0.897);
+
+}
+.btn{
+    
+        border:none;
+        cursor: pointer;
+        padding: 10px 30px;
+        border-radius: 10px;
+        background-color: rgb(5, 5, 5);
+        color: white;
+        font-weight: 800;
+        margin-bottom: 40px;
+    
+}
+
+
+.bg-img{
+    height: 500px;
+    width: 100%;
+
+    background-image: url(../images/section1-image1.jpg);
+    background-repeat: no-repeat;
+   background-size: cover;
+    background-position: center;
+    position: relative;
+    margin: 0;
+}
+.overlay{ position: relative;
+     top: 0;
+    right:   -256px;  
+     width: 100%;
+    height: 500px;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+
+
+.image{
+    margin-right: 10px;
+    margin-left: 10px;
+    justify-content: space-between;
+ }
+.container{
+    align-items: center;
+    justify-content: center;
+    margin-left: 605px;
+} 
+.bg-img2{height: 500px;
+    width: 100%;
+    justify-content: center;
+    background-image: url(../images/section3-image.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    margin: 0;
+
+
+
+}
+.con-flex{
+ 
+    background-image: url(../images/section4-image1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+
+
+.sub-head{
+    Text-align: center;
+    margin: top 10px; ;
+    margin-bottom: 10px;
+}
+.overlay-second{
+    position: relative;
+     top: 0;
+    right: 316px;  
+     width: 100%;
+    height: 500px;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    flex-direction: column
+}
+ 
+.image-container{
+
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    padding: 18px;
+    background-color: #ff6900;
+}
+/* .image-container img{
+    float:left: ;
+    margin-right 10px;
+} */
+   .image-container{
+    margin-top: 15px;}
+.nav{
+    margin-top: 10px;
+}
+
+
+
+
+
+.picture-container{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    padding: 18px;
+    
+background-color:#eeee  ;
+}
+.picture{
+    display: flex;
+    flex: 1 ;
+    /* justify-content: center; */
+    align-items: center;
+    background-position: center;
+background-color:white;
+}
+.picture img{
+    max-width: 100%;
+    height: auto;
+    
+
+}
+.con-flex{ display: flex;
+flex-direction: column 1fr 1fr;
+gap: 20px;
+background-color: antiquewhite;
+}
+
+
+
+/* FOOTER */
+.col{
+    background-color: black;
+}
+.footer-line{
+    border: none;
+    height: 1px;
+    background-color: rgb(12, 9, 9);
+    margin-top: 20px;
+}
+.overlay-therm{ 
+    justify-content: center;
+   align-items: center;
+   flex-direction: column
+   pos
+} 
+.usman{
+    text-align: center;
+    margin: top 10px; ;
+    margin-bottom: 10px;
+}
+
+
+
+/* Discover */
+
+
+
+.bg-img4{
+    height: 500px;
+    width: 100%;
+
+    background-image: url(../images/images/section1-image.jpg);
+    background-repeat: no-repeat;
+   background-size: cover;
+    background-position: center;
+    position: relative;
+    margin: 0;}
+
+
+
+.btnt{
+    border:none;
+    cursor: pointer;
+    padding: 10px 30px;
+    border-radius: 10px;
+    background-color: rgb(5, 5, 5);
+    color: white;
+    font-weight: 800;
+    background-color:  #ff6900;
+    margin-bottom: 40px;
+margin-left: 100px;}
+.support{
+    align-items: center;
+    justify-content: center;
+    background-position: center;
+}
+.CONSTRUCTION{
+    justify-content: center;
+    background-position: center;
+    text-align: center;
+}
+.input{justify-content: center;
+    background-position: center;
+    text-align: center;
+    border: none;
+    border-radius: 5px;
+    width: 100%;
+    padding-left: 30px;
+}
+.overlay-supp{ position: relative;
+    top: 0;
+   right:   -256px;  
+    width: 100%;
+   height: 500px;
+   display: flex; 
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+
+
+}
+.redc{
+    border:none;
+        cursor: pointer;
+        padding: 10px 30px;
+        border-radius: 10px;
+        background-color: rgb(5, 5, 5);
+        color: white;
+        font-weight: 800;
+        margin-bottom: 40px;
+        background-color: green;
+}
+.items{
+    display: flex;
+    /* justify-content: space-between; */
+    /* background-color: aqua; */
+    flex:0.5;
+    width: 40%;
+height: 10PX;
+margin-left: 10PX;}
+
+
+.footer{
+
+    background-color: black;
+   min-height: 400px;
+   padding: 5px;
+}
+
+
+.flex{
+    display: flex;
+    color: white;
+    justify-content: space-between;
+}
+.copy{
+    color: white;
+}
+    
